@@ -8,6 +8,8 @@ After loading the datasets, I plotted them in order to visaulize the balance of 
 
 Class balance for RacketSports
 
+
+
 ![image](https://github.com/palanore1/data-manipulation/assets/101025098/96b1aca3-7b26-4193-a568-df7ba869165e)
 
 Obvious class imbalance for MIT-BIH
